@@ -17,7 +17,8 @@
 - 🎮 **Minecraft Server** – lightweight self-hosted, wired for live stats  
 
 ## 👤 Aliases  
-- ant-cave  
+- [ant-cave](https://github.com/ant-cave)
+- [redirect-to](https://github.com/redirect-to)
 - ANTmmmmm (retired)
 
 ## 💬 Contact  
